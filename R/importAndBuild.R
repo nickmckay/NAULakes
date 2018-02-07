@@ -36,9 +36,6 @@ importLakeFiles <- function(path.to.files){
     }
   }
 
-
-
-
 }
 
 
